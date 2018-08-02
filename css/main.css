@@ -1,3 +1,19 @@
 body {
   font-family: verdana;
 }
+
+ul {
+  color: blue;
+  background-color: red;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+
+
+#reading-list {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+
+}
